@@ -1,0 +1,40 @@
+name: women_safety_ride
+description: "Women Ride Safety App"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # Firebase Core (MUST be first)
+  firebase_core: ^3.12.1
+
+  # Firebase Authentication
+  firebase_auth: ^5.5.1
+
+  # Cloud Firestore (for storing user data)
+  cloud_firestore: ^5.6.5
+
+
+  # Map and Location Packages
+  flutter_map: ^6.1.0
+  latlong2: ^0.9.0
+  geolocator: ^10.1.0
+  sidebarx: ^0.16.3
+
+  # Existing
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/

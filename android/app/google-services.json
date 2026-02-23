@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "727112444278",
+    "project_id": "device-streaming-03cc2fae",
+    "storage_bucket": "device-streaming-03cc2fae.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727112444278:android:7b2771d70f3bcdb25f7257",
+        "android_client_info": {
+          "package_name": "com.example.women_safety_ride"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp0XHycY2O9ExpGBFOP7vO7knBnhVBzUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
