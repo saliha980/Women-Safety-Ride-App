@@ -1,0 +1,28 @@
+{
+	"flutter": {
+		"platforms": {
+			"android": {
+				"default": {
+					"projectId": "woman-security-def02",
+					"appId": "1:875063572991:android:20f0496f9f643b62678fca",
+					"fileOutput": "android/app/google-services.json"
+				}
+			},
+			"dart": {
+				"lib/firebase_options.dart": {
+					"projectId": "woman-security-def02",
+					"configurations": {
+						"android": "1:875063572991:android:20f0496f9f643b62678fca",
+						"ios": "1:727112444278:ios:d80d6d22931beaf65f7257",
+						"macos": "1:727112444278:ios:d80d6d22931beaf65f7257",
+						"web": "1:727112444278:web:4f39b6f653a5928a5f7257",
+						"windows": "1:727112444278:web:0ba4dbed70e602cf5f7257"
+					}
+				}
+			}
+		}
+	},
+	"firestore": {
+		"indexes": "firestore.indexes.json"
+	}
+}
