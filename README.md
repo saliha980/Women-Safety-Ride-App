@@ -1,43 +1,35 @@
-Women Safety Ride App 🚺
-An AI-powered women-only ride-sharing platform built with Flutter and Firebase.
+# Women Safety Ride App
 
-Features
-✅ User Authentication (Sign Up / Login)
+A mobile app built with Flutter and Firebase for women's safety during rides. It uses AI to verify CNIC identity and has suppport for emergencies.
 
-✅ AI-powered CNIC Verification using OCR
+## What Works
+- Sign up / Login with Firebase Auth
+- CNIC verification using OCR
+- One-tap SOS alert
+- Wallet screen
+- Ride booking
+- Group ride matching
+- 
+## What's In Progress
+- Payment integration methods if possible
 
-✅ One-Tap SOS Emergency System
+## Tech Used
+- Flutter
+- Firebase Auth
+- Firestore Database
+- OCR for CNIC
 
-✅ Digital Wallet Interface
+## How to Run
+1. Clone this repo https://github.com/saliha980/Women-Safety-Ride-App.git
+2. Open in Android Studio / VS Code
+3. Run `flutter pub get`
+4. Connect a phone or emulator
+5. Run `flutter run`
 
-✅ Ride Booking & Group Ride (In Progress)
+## Project Status
+Core features are functional and additional features are under active development for future enhancements.
 
-
-
-Tech Stack
-Frontend: Flutter
-
-Backend: Firebase (Auth, Firestore, Storage)
-
-AI/ML: OCR for CNIC Verification
-
-Version Control: Git & GitHub
-
-How to Run
-Clone the repository
-
-Open the project in Android Studio / VS Code
-
-Run flutter pub get
-
-Connect a device or start an emulator
-
-Run flutter run
-
-Project Status
-Core features are functional, and we are actively developing additional features for enhancement.
-
-Contributors
+## Author
 Saliha Fatima
 Bushra Zahid
 Tayyaba Hussain
