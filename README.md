@@ -9,9 +9,9 @@ A mobile app built with Flutter and Firebase for women's safety during rides. It
 - Wallet screen
 - Ride booking
 - Group ride matching
-- 
+  
 ## What's In Progress
-- Payment integration methods if possible
+- Payment integration methods if possible because that need companies help.
 
 ## Tech Used
 - Flutter
