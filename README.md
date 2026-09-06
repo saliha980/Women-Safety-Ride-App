@@ -33,3 +33,6 @@ Core features are functional and additional features are under active developmen
 Saliha Fatima
 Bushra Zahid
 Tayyaba Hussain
+
+## 📄 License
+This project is for academic purposes only.
