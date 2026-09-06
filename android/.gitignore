@@ -12,3 +12,13 @@ GeneratedPluginRegistrant.java
 key.properties
 **/*.keystore
 **/*.jks
+# Firebase secrets
+google-services.json
+firebase_options.dart
+
+# Environment variables
+.env
+
+# Private keys
+*.pem
+*.key
